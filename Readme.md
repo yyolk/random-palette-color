@@ -1,14 +1,14 @@
 
-# randomColor
+# random-color
 
   Return a random color
 
 ## Installation
 
-    $ component install yyolk/randomColor
+    $ component install yyolk/random-color
 
 ## API
-    var RandomColor = require("randomColor");
+    var RandomColor = require("random-color");
     function changeBodyColor(){
       document.getElementById("body").style.backgroundColor = RandomColor();
     }
