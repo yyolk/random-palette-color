@@ -8,7 +8,11 @@
     $ component install yyolk/random-color
 
 ## API
-
+    var RandomColor = require("randomColor");
+    function changeBodyColor(){
+      document.getElementById("body").style.backgroundColor = RandomColor();
+    }
+    changeBodyColor();
    
 
 ## License
