@@ -1,7 +1,7 @@
 {
   "name": "random-color",
-  "repo": "yyolk/random-color",
-  "description": "Return a random color",
+  "repo": "yyolk/random-palette-color",
+  "description": "Return a random color from palette",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
