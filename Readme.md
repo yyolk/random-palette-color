@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ component install yyolk/random-color
+    $ component install yyolk/randomColor
 
 ## API
     var RandomColor = require("randomColor");
