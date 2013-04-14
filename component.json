@@ -1,0 +1,15 @@
+{
+  "name": "randomColor",
+  "repo": "yyolk/randomColor",
+  "description": "Return a random color",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "enricomarino/palette": "*"
+    },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
