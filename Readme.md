@@ -1,7 +1,7 @@
 
-# random-color
+# random-palette-color
 
-  Return a random color
+  Return a random [palette](https://github.com/enricomarino/palette) color
 
 ## Installation
 
