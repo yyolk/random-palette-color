@@ -1,5 +1,5 @@
 
-# random-color
+# randomColor
 
   Return a random color
 
