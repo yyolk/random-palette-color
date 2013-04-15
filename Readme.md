@@ -1,4 +1,3 @@
-
 # random-palette-color
 
   Return a random [palette](https://github.com/enricomarino/palette) color
@@ -7,7 +6,7 @@
 
     $ component install yyolk/random-palette-color
 
-## Example
+## Usage
     var RandomPaletteColor = require("random-palette-color");
     function changeBodyColor(){
       document.getElementById("body").style.backgroundColor = RandomPaletteColor();
