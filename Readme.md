@@ -7,12 +7,13 @@
     $ component install yyolk/random-palette-color
 
 ## Usage
-    var RandomPaletteColor = require("random-palette-color");
-    function changeBodyColor(){
-      document.getElementById("body").style.backgroundColor = RandomPaletteColor();
-    }
-    changeBodyColor();
-   
+```js
+var RandomPaletteColor = require("random-palette-color");
+function changeBodyColor(){
+  document.getElementById("body").style.backgroundColor = RandomPaletteColor();
+}
+changeBodyColor();
+```
 
 ## License
 
